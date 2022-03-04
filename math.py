@@ -3,7 +3,7 @@ def add(x,y):
   return x + y +z
 #add subract new
 def subtract(x,y):
- return x-y #on master
+ return x-y-z #on master
  #add multiplication new
 def multiply(x,y):
  return x * y #on bug456
