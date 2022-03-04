@@ -1,6 +1,6 @@
 #add implementation new
 def add(x,y):
-  return x + y
+  return x + y +z
 #add subract new
 def subtract(x,y):
  return x-y #on master
