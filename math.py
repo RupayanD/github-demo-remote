@@ -6,7 +6,7 @@ def subtract(x,y):
  return x-y #on master
  #add multiplication new
 def multiply(x,y):
- return x * y #on bug456
+ return x * y * z #on remote
  #Divide implementation new
 def divide(x,y):
  if(y!=0)
